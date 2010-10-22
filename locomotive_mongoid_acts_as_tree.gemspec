@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{locomotive_mongoid_acts_as_tree}
+  s.name = %q{mongoid_acts_as_tree}
   s.version = "0.1.5.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -25,7 +25,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/mongoid_acts_as_tree.rb",
-     "locomotive_mongoid_acts_as_tree.gemspec",
+     "mongoid_acts_as_tree.gemspec",
      "mongoid_acts_as_tree.gemspec",
      "test/helper.rb",
      "test/models/category.rb",
